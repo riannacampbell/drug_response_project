@@ -1,6 +1,5 @@
 # Colon Cancer Drug Response Prediction
-###C242 Machine Learning Final Project
-###Alice Ternois and Rianna Campbell
+**`UC Berkeley C242 Machine Learning Final Project`**
 
 Dataset: This [Colon Cancer Multitargeted Drug Discovery Dataset](https://www.kaggle.com/datasets/programmer3/colon-cancer-multitargeted-drug-discovery-dataset) integrates genomic, transcriptomic, and proteomic data from 7,643 patients and focuses on multitargeted drug discovery in colon cancer.
 
