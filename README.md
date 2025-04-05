@@ -5,7 +5,6 @@ Dataset: This [Colon Cancer Multitargeted Drug Discovery Dataset](https://www.ka
 
 Key features:
 - Gene expression data: Expression levels of key genes linked to colon cancer
-- Mutation status: Binary indicators of oncogene mutations
 - Protein interaction scores: Quantitative interaction scores from protein networks
 - Pathway alterations: Categorical values indicating pathway dysregulation
 - Drug response: Measures of drug efficacy (target variable)
