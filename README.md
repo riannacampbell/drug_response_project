@@ -1,3 +1,5 @@
+# NEW PROJECT: https://github.com/AliceTernois/c242_project.git
+
 # Colon Cancer Drug Response Prediction
 **`UC Berkeley C242 Machine Learning Final Project`**
 
